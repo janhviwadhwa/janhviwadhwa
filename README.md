@@ -7,7 +7,7 @@
     <a href="https://leetcode.com/u/janhviwadhwa972/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode February Badge" height="200" width="200" />
     </a>
-<!--     <a href="https://leetcode.com/u/janhviwadhwa972/" target="_blank">
+    <a href="https://leetcode.com/u/janhviwadhwa972/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March Badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/janhviwadhwa972/" target="_blank">
@@ -16,7 +16,7 @@
     <a href="https://leetcode.com/u/janhviwadhwa972/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problems Badge" height="200" width="200" />
     </a>
-  </p> -->
+  </p>
   <p align="center">
     <img align="top" src="https://leetcard.jacoblin.cool/janhviwadhwa972?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap" />  
   </p>
